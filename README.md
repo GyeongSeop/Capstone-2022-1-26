@@ -12,8 +12,10 @@
 # 3. 구성도
   구글맵 크롤링
 ![image](https://user-images.githubusercontent.com/84845619/195590004-38cf315b-2119-4a58-9610-d4381928c153.png)
+  
   감성 분석
 ![image](https://user-images.githubusercontent.com/84845619/195590116-b5ca96cb-6cb0-490e-ac8a-dfa083514fe2.png)
+  
   출력 시스템
 ![image](https://user-images.githubusercontent.com/84845619/195590179-6711e8cd-af1f-4075-b74c-c6d447d88707.png)
 
