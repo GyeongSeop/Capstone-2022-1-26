@@ -96,7 +96,7 @@ if __name__ == "__main__":
     # get a tag
     alist = driver.find_elements(by=By.CLASS_NAME, value="hfpxzc")
 
-    # 스크롤 다운 - 이 과정에서만 수동으로 내려 주면 더 좋습니다.
+    # 스크롤 다운
     alist[0].click()
     wait(1, 2)
     alist[0].click()
