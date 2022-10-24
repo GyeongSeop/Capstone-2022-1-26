@@ -20,6 +20,7 @@
 ![image](https://user-images.githubusercontent.com/84845619/195590179-6711e8cd-af1f-4075-b74c-c6d447d88707.png)
 
 # 4. 소개 및 시연 영상
+https://www.youtube.com/watch?v=3QCnnrlhzp8
 
 # 5. 사용법
   지역, 카테고리, 전체 검색 중 하나를 선택한다.
